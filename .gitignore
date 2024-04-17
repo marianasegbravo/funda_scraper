@@ -1,0 +1,6 @@
+/fundascraping/input/credentials.json
+/fundascraping/css_selector.json
+/fundascraping/scraper_backup.py
+/.env
+/fundascraping/output
+/fundascraping/makefile
