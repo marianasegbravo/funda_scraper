@@ -53,3 +53,5 @@ Options available for "Aanhef" (if empty the default is no preference):
 - "Dhr" (Mr)
 - "Mevr" (Ms.)
 - "Anders" (Other)
+
+Note: Makefile configuration still in progress
